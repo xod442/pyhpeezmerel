@@ -1,0 +1,4 @@
+delete_plat_operator crashes if operator does not exist - add error handling
+
+
+
